@@ -1,0 +1,496 @@
+body{
+    margin: 0 auto;
+}
+.navbar {
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+}
+a {
+    color: white;
+}
+a:link {   
+    text-decoration: none;
+}
+li {
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: 'Bodoni MT';
+    text-decoration: none;
+    letter-spacing: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.CSOlogo {
+    display: inline-block;
+    width: 100px;
+}
+.goldlogo {
+    width: 80%;
+    vertical-align: middle;
+    display: inline-block;
+}
+.mainNav {
+    display: inline-block;
+    margin: 0px 15% 0px 23%;   
+}
+.secondnav {
+    display: inline-block;   
+}
+
+.chooseAnOrchestra {
+    text-align: center;
+    height: 0 auto;
+    margin: 30px;
+}
+.header {
+    display: block;
+}
+.chooseHeader {
+    font-family: 'Bodoni MT';
+    color: #BC994E;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 0 auto;   
+}
+.chooseContent {
+    display: block;
+    margin-top: 10px;
+}
+.toAddress { 
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px;
+    display: block;
+}
+.symphonyOrchestra {   
+    font-family: 'Montserrat', sans-serif; 
+    margin: 10px;
+    display: block;
+}
+
+.secondContainer {
+    background-color: #FDF8E7;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.main {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: inline-block;
+    margin-right: 50px;
+}
+.backgroundmain {
+    background-image: url(images/mainpic.jpg);
+    background-size: cover;
+    width: 700px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    
+}
+.maininfo {
+    margin: 0 auto;
+    width: 600px;
+    height: 430px;
+    background: rgba(204, 204, 204, 0.7);
+}
+.mainheader1 {
+    font-family: 'Bodoni MT';
+    text-decoration: underline;
+    font-size: 50px;
+    display: block;
+    color: red;
+    color: #FDF8E7;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.maindetail {
+    margin: 0 auto;
+    display: block;
+    text-align: left;
+    width: 450px;
+}
+.mainjaunt1 {
+    text-align: left;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.mainjaunt2 {
+    text-align: left;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.mainjaunt3 {
+    text-align: left;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.mainjaunt4 {
+    text-align: left;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.mainjaunt5 {
+    text-align: left;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.Learn {
+    background-color: black;
+    color: white;
+    width: 140px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    
+}
+.learnMore {
+    text-decoration: underline;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.phil {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: inline-block;
+    margin-left: 50px;
+}
+.backgroundphil {
+    background-image: url(images/phil.jpg);
+    background-size: cover;
+    width: 700px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.philinfo {
+    margin: 0 auto;
+    width: 600px;
+    height: 430px;
+    background: rgba(204, 204, 204, 0.7);
+}
+.philheader1 {
+    font-family: 'Bodoni MT';
+    text-decoration: underline;
+    font-size: 50px;
+    display: block;
+    color: red;
+    color: #FDF8E7;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.phildetail {
+    margin: 0 auto;
+    display: block;
+    text-align: left;
+    width: 450px;
+    
+}
+.philjaunt1 {
+    text-align: left;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.philjaunt2 {
+    text-align: left;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.philjaunt3 {
+    text-align: left;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.philjaunt4 {
+    text-align: left;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.philjaunt5 {
+    text-align: left;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+.thirdContainer {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.emailheader {
+    font-family: 'Bodoni MT';
+    color: #BC994E;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 0 auto;
+    display: block;
+    padding-top: 30px;
+}
+.emailinfo {
+    display: block;
+    margin-top: 10px;
+    padding-bottom: 30px;
+}
+.wellHave { 
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px;
+    display: block;
+}
+.justPing {   
+    font-family: 'Montserrat', sans-serif; 
+    margin: 10px;
+    display: block;
+}
+
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */  
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
+    
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #45a049;
+    text-align: center;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+}
+.formcontainer {
+    width: 500px;
+    margin: 0 auto;
+}
+textarea {
+    font-family: "Arial";
+}
+
+.becomeMember {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.headerdiv {
+    display: block;
+}
+.memberHeader {
+    font-family: 'Bodoni MT';
+    color: #BC994E;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 0 auto;   
+}
+.memberContent {
+    display: block;
+    margin-top: 10px;
+}
+.toBecome { 
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px;
+    display: block;
+}
+.membersAre {   
+    font-family: 'Montserrat', sans-serif; 
+    margin: 10px;
+    display: block;
+}
+.forms {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.memberForm {
+    background-color: black;
+    margin: 0 auto;
+    width: 180px;
+    display: inline-block;
+}
+.memberFormText {
+    text-decoration: underline;
+}
+.photoForm {
+    background-color: black;
+    margin: 0 auto;
+    width: 220px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.photoFormText {
+    text-decoration: underline;
+}
+.liabilityForm {
+    background-color: black;
+    margin: 0 auto;
+    width: 180px;
+    display: inline-block;
+}
+.liabilityFormText {
+    text-decoration: underline;
+}
+
+
+.bottom {
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    margin: 0 auto;    
+    text-align: center;
+}
+
+.bottomNav {
+    vertical-align: middle;
+}
+.bottommedia {
+    display: inline-block;
+    margin: 0 auto;
+    width: 140px;
+    height: auto;
+    vertical-align: middle;
+}
+.spotify {
+    filter: invert(100%);
+    width: 60%;
+    vertical-align: middle;
+    display: block;
+}
+.youtube {
+    filter: invert(100%);
+    width: 60%;
+    vertical-align: middle;
+    display: block
+}
+
+.mainBottomNav {
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px 13% 0px 22%;
+}
+.bottomContact {
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: right;
+}
+.contacthead {
+    margin: 0 auto;
+    
+    display: block;
+    text-align: left;
+}
+.contactinfo {
+    margin-top: 10px;
+    display: block;
+}
+.contactheader {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 auto;
+}
+.calebinfo {
+    margin: 0 auto;
+    display: inline-block;
+    text-align: left;
+}
+.president {
+    display: block;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 10px;
+}
+.presemail {
+    display: block;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: underline;
+    font-size: 10px;
+}
+.davidinfo {
+    margin: 0 auto;
+    display: inline-block;
+    text-align: left;
+    padding-left: 30px;
+    font-size: 10px;
+}
+.webmaster {
+    display: block;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 10px;
+}
+.webemail {
+    display: block;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: underline;
+}
+

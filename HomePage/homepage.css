@@ -1,0 +1,198 @@
+body{
+    margin: 0 auto;
+    color: white;
+    width: 100%;
+    height: 700px;
+    filter: grayscale(50%);
+    text-align: center;
+    vertical-align: middle;
+}
+.navbar {
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+a:link {
+    
+    text-decoration: none;
+}
+
+li {
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: 'Bodoni MT';
+    text-decoration: none;
+    letter-spacing: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.CSOlogo {
+    display: inline-block;
+    width: 100px;
+}
+.goldlogo {
+    width: 80%;
+    vertical-align: middle;
+    display: inline-block;
+}
+.mainNav {
+    display: inline-block;
+    margin: 0px 15% 0px 23%;
+    
+}
+.secondnav {
+    display: inline-block;   
+}
+
+.main {
+    width: 100%;
+    height: 800px;
+    
+    background-image: url("images/main.jpeg");
+    background-size: cover;
+    
+    text-align: center;
+    vertical-align: middle;
+}
+
+.mainlogo {
+    width: 30%;
+    filter: invert(100%);
+    vertical-align: middle;
+    margin-top: 50px;
+}
+.first {
+    display: inline-block;
+}
+.phrase {
+    display: inline-block;
+    margin-top: 50px;
+}
+h1 {
+    color: white;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    letter-spacing: 4px;
+}
+/*
+.secondpart {
+    width: 100%;
+    height: 1000px;
+    background-color: #F4EFEF;
+    background-image: url(images/background.png);
+    background-size: cover;
+}
+*/
+
+
+.bottom {
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.bottomNav {
+    vertical-align: middle;
+}
+.bottommedia {
+    display: inline-block;
+    margin: 0 auto;
+    width: 140px;
+    height: auto;
+    vertical-align: middle;
+}
+.spotify {
+    filter: invert(100%);
+    width: 60%;
+    vertical-align: middle;
+    display: block;
+}
+.youtube {
+    filter: invert(100%);
+    width: 60%;
+    vertical-align: middle;
+    display: block
+}
+
+.mainBottomNav {
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px 13% 0px 22%;
+}
+.bottomContact {
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: right;
+}
+.contacthead {
+    margin: 0 auto;
+    
+    display: block;
+    text-align: left;
+}
+.contactinfo {
+    margin-top: 10px;
+    display: block;
+}
+.contactheader {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 auto;
+}
+.calebinfo {
+    margin: 0 auto;
+    display: inline-block;
+    text-align: left;
+}
+.president {
+    display: block;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 10px;
+}
+.presemail {
+    display: block;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: underline;
+    font-size: 10px;
+}
+.davidinfo {
+    margin: 0 auto;
+    display: inline-block;
+    text-align: left;
+    padding-left: 30px;
+    font-size: 10px;
+}
+.webmaster {
+    display: block;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 10px;
+}
+.webemail {
+    display: block;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: underline;
+}
+
